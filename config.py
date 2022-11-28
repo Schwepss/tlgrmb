@@ -1,4 +1,4 @@
-TOKEN = "5579397129:AAEdGGTc6g4YbXLKSDThtYUlehHlmmGredk"
+TOKEN = "++++5579397129:AAEdGGTc6g4YbXLKSDThtYUlehHlmmGre++++" #изменен в целях безопасности
 
 keys = {
     "евро": "EUR",
